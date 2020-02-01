@@ -80,6 +80,7 @@
 	        <scope>runtime</scope>
 	    </dependency>
 	    
+<!-- 	    configuração jpa e driver -->
 	    <dependency>
 		    <groupId>org.hibernate</groupId>
 		    <artifactId>hibernate-entitymanager</artifactId>
@@ -101,7 +102,6 @@
 		    <groupId>org.postgresql</groupId>
 		    <artifactId>postgresql</artifactId>
 		</dependency>
-	    
 	    
 	</dependencies>
 
